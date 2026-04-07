@@ -1,82 +1,70 @@
-# 🚀 Hey, I’m **Vincent Reddy** 👋  
+# <p align="center">🚀 Hey, I’m **Vincent Reddy** 👋</p>
 
-💻 Frontend Dev → 🌐 Future Full-Stack MERN Engineer → 📊 Data Enthusiast  
-
----
-
-## 🧑‍💻 About Me  
-I’m **Vincent Reddy** — a passionate developer who loves building scalable and visually stunning apps.  
-- 💼 1+ year teaching **HTML, CSS, JavaScript, React & Tailwind** at CV Corp  
-- 🌱 Currently leveling up in **TypeScript, Node.js & MERN stack**  
-- 🏗️ Building **real-world projects** (ATS Clone, Resume ATS Score Checker, Timetable Manager)  
-- ⚡ Believe in clean code, teaching, and constant growth  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Frontend+Alchemist;Software+Engineer;DevOps+Enthusiast;Building+the+Future.+" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### ⚙️ Version Control & Build Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-
-### 🖥️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 📊 Data / Utilities / GUI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Turtle](https://img.shields.io/badge/Turtle-228B22?style=for-the-badge)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F61?style=for-the-badge)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
----
-
-## 📊 GitHub Stats & Activity  
-
-![Vincent’s GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentReddy25&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=VincentReddy25&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VincentReddy25&theme=radical)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VincentReddy25&theme=react-dark&hide_border=true)  
+### <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/assets/about-me.gif" width="30px"> 🧑‍💻 About Me  
+- 💼 **Software Engineer** with 1+ year of expertise in **JavaScript, React, Vue.js, SCSS, Tailwind**.  
+- 🌱 Currently mastering **Next.js & Cloud Infrastructure**.  
+- 🏗️ Focused on building **High-Performance UI/UX** and Scalable Web Apps.  
+- ⚡ Believe that **Code is Art** and simplicity is the ultimate sophistication.
 
 ---
 
-## 🏆 GitHub Trophies  
+### <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/assets/working.gif" width="30px"> 🛠️ Tech Stack  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=VincentReddy25&theme=radical&no-frame=true&margin-w=15)  
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 🌐 Connect with Me  
+### <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/assets/analytics.gif" width="30px"> 📊 GitHub Stats  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vincent-reddy/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/VincentReddy25)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VincentReddy25&show_icons=true&theme=tokyonight&count_private=true" alt="Vincent's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentReddy25&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="180px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentReddy25&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
-✨ “Great developers don’t just **write code**. They **teach, inspire & build the future**.”  
-⭐ From [Vincent Reddy](https://github.com/VincentReddy25)  
+### <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/assets/handshake.gif" width="30px"> 🌐 Connect with Me  
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vincent-reddy/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vince.reddy25@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ “Great developers don’t just **write code**. They **teach, inspire & build the future**.”  
+  <br>
+  ⭐ From [**Vincent Reddy**](https://github.com/VincentReddy25)
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VincentReddy25&color=00D1FF&style=flat-square&label=VIsitors%20Counter" alt="Visitor Counter" />
+</p>
+
