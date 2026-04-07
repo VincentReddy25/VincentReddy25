@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-### 🖥️ > `cat /sys/mainframe/about.txt`
+### <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/assets/working.gif" width="30px" align="center"> > `cat /sys/mainframe/about.txt`
 - 💼 **Full-Stack Engineer** navigating the grid with **JavaScript, React, Vue.js, SCSS, Tailwind**.  
 - 🌱 Currently augmenting my neural stack with **Cloud Architecture & DevOps Infrastructure**.  
 - 🏗️ Architecting **High-Performance UI/UX** and fault-tolerant backend systems.  
@@ -22,7 +22,7 @@
 
 <br>
 
-## 🌐 > `load_neural_network --all`
+## <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/assets/dragon-wing.gif" width="30px" align="center"> > `load_neural_network --all`
 
 <table align="center">
   <tr>
@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-### 🗡️ > `sudo extend_capability --tools`
+### <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/assets/gears.gif" width="30px" align="center"> > `sudo extend_capability --tools`
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -84,10 +84,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 📊 > `execute_analytics.sh`
+## <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/assets/analytics.gif" width="30px" align="center"> > `execute_analytics.sh`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VincentReddy25&show_icons=true&theme=tokyonight&count_private=true&border_color=00FFCC&bg_color=0D1117" alt="Vincent's GitHub Stats" height="190px"/>
@@ -100,10 +100,10 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-### 📡 > `establish_uplink --secure`
+### <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/assets/handshake.gif" width="30px" align="center"> > `establish_uplink --secure`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vincent-reddy/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
