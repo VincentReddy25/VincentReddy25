@@ -1,7 +1,7 @@
 # <p align="center">⚡ **Thanugundla Vincent Reddy** ⚡</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=1000&pause=500&color=00FFCC&center=true&vCenter=true&width=700&height=100&lines=%5B+%2B+%5D+Initializing+sys.mainframe...;%5B+%2B+%5D+Loading+Neural_Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D;%5B+%2B+%5D+Identity_+Vincent_Reddy;%5B+%2B+%5D+Role_+Full_Stack+%2F%2F+Cyber_Architect;%5B+%2B+%5D+Status_+ONLINE+%E2%9C%93" alt="Terminal Payload SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=1300&pause=500&color=00FFCC&center=true&vCenter=true&width=700&height=100&lines=%5B+%2B+%5D+Initializing+sys.mainframe...;%5B+%2B+%5D+Loading+Neural_Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D;%5B+%2B+%5D+Identity_+Vincent_Reddy;%5B+%2B+%5D+Role_+Software_+Engineer;%5B+%2B+%5D+Status_+ONLINE+%E2%9C%93" alt="Terminal Payload SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -53,6 +53,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VincentReddy25/VincentReddy25/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VincentReddy25/VincentReddy25/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🧊 > `render_3d_contribution_map()`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VincentReddy25/VincentReddy25/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
