@@ -1,16 +1,15 @@
 # <p align="center">⚡ **Thanugundla Vincent Reddy** ⚡</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&height=100&lines=%5B+%2B+%5D+Initializing+sys.mainframe...;%5B+%2B+%5D+Loading+Neural_Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D;%5B+%2B+%5D+Identity_+Vincent_Reddy;%5B+%2B+%5D+Role_+Full_Stack+%2F%2F+Cyber_Architect;%5B+%2B+%5D+Status_+ONLINE+%E2%9C%93" alt="Terminal Payload SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=1000&pause=500&color=00FFCC&center=true&vCenter=true&width=700&height=100&lines=%5B+%2B+%5D+Initializing+sys.mainframe...;%5B+%2B+%5D+Loading+Neural_Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D;%5B+%2B+%5D+Identity_+Vincent_Reddy;%5B+%2B+%5D+Role_+Full_Stack+%2F%2F+Cyber_Architect;%5B+%2B+%5D+Status_+ONLINE+%E2%9C%93" alt="Terminal Payload SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🖥️ > `cat /sys/mainframe/about.txt`
-- 💼 **Full-Stack Engineer** navigating the grid with **JavaScript, React, Vue.js, SCSS, Tailwind**.  
+- 💼 **Software Engineer** navigating the grid with **JavaScript, React, Vue.js, SCSS, Tailwind**.  
 - 🌱 Currently augmenting my neural stack with **Cloud Architecture & DevOps Infrastructure**.  
-- 🏗️ Architecting **High-Performance UI/UX** and fault-tolerant backend systems.  
-- ⚡ **Directive:** "Clean Code, Scalable Architecture, Maximum Efficiency."
+- ⚡ **Directive:** "Scalable Architecture, Maximum Efficiency."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -44,21 +43,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 > `execute_analytics.sh`
 
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentReddy25&theme=tokyonight&fire=00FFCC&ring=FF0055&currStreakNum=00FFCC&sideNums=00FFCC&dates=a9b1d6&background=0D1117&border=00FFCC" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VincentReddy25&bg_color=0D1117&color=00FFCC&line=FF0055&point=00FFCC&area_color=0D1117&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🐍 > `initiate_snake_protocol()`
 
@@ -76,7 +61,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vincent-reddy/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vince.reddy25@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vincentreddy25@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=VincentReddy25&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
