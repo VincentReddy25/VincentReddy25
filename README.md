@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&height=100&lines=%5B+%2B+%5D+Initializing+sys.mainframe...;%5B+%2B+%5D+Loading+Neural_Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D;%5B+%2B+%5D+Identity_+Vincent_Reddy;%5B+%2B+%5D+Role_+Full_Stack+%2F%2F+Cyber_Architect;%5B+%2B+%5D+Status_+ONLINE+%E2%9C%93" alt="Terminal Payload SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/VincentReddy25">
-    <img src="https://github-profile-trophy.vercel.app/?username=VincentReddy25&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🖥️ > `cat /sys/mainframe/about.txt`
@@ -52,12 +46,7 @@
 
 ## 📊 > `execute_analytics.sh`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VincentReddy25&show_icons=true&theme=tokyonight&count_private=true&border_color=00FFCC&bg_color=0D1117&icon_color=00FFCC&title_color=FF0055" alt="GitHub Stats" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentReddy25&layout=compact&theme=tokyonight&hide=html,css&border_color=00FFCC&bg_color=0D1117&title_color=FF0055" alt="Top Langs" height="190px"/>
-</div>
 
-<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentReddy25&theme=tokyonight&fire=00FFCC&ring=FF0055&currStreakNum=00FFCC&sideNums=00FFCC&dates=a9b1d6&background=0D1117&border=00FFCC" alt="GitHub Streak" />
