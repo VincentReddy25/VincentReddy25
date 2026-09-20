@@ -57,11 +57,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🧊 > `render_3d_contribution_map()`
+<!-- ### 🧊 > `render_3d_contribution_map()`
 
 <div align="center">
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -70,7 +70,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vincent-reddy/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vincentreddy25@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=VincentReddy25&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=VincentReddy25&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" /> -->
 </p>
 
 <p align="center">
